@@ -1,0 +1,19 @@
+{
+    "name": "vanila-js-calculator",
+    "version": "1.0.0",
+    "description": "It's a simple vanila js calculator built with js, html, css. You can do practice and see code for reference. \r Best of starting your programming journery using JavaScript",
+    "main": "script.js",
+    "scripts": {
+        "dev": "live-server"
+    },
+    "keywords": [
+        "vanila-js",
+        "js-calculator",
+        "simple-calculator"
+    ],
+    "author": "Arifu Islam",
+    "license": "MIT",
+    "dependencies": {
+        "live-server": "^1.2.2"
+    }
+}
